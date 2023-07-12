@@ -1,8 +1,8 @@
-# PAS
+# DAS
 
-Hello, welcome to Premium Account Shop Github Page.
+Hello, welcome to Daxxy Account Shop Github Page.
 
-Our Website Link is: https://premiumaccounts.io/
+Our Website Link is: https://DAXXYACCOUNTSHOP.COM/
 
 
 Status: Active.
