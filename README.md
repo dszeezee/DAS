@@ -1,13 +1,9 @@
-# DAS
+# PAS
 
-Hello, welcome to Daxxy Account Shop Github Page.
+Hello, welcome to Premium Account Shop Github Page.
 
-Our Website Link is: https://daxxyshop.com
+Our Website Link is: https://premiumaccounts.io/
 
-In-house Team { Dylan, Zannelle, Lillian }
-
-Company Founded: September, 2019.
 
 Status: Active.
 
-Daxxy, LLC.
